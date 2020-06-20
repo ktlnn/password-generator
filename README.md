@@ -10,4 +10,4 @@ The password will then be displayed onto the page.
 - webpage link https://ktlnn.github.io/password-generator/
 
 ## Project Screenshot 
-- 
+- [password-generator-screenshot!] (assets/images/password-generator-screenshot)
