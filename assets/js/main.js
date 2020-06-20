@@ -18,6 +18,7 @@ var characters = ["!","@","#","$","%","^","&","*"];
 var userPassword = [];
 var password = "";
 
+// Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
 // for(var i = 0; i < upperCase.length; i++){
